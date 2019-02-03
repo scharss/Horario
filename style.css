@@ -20,9 +20,15 @@ th, td{
     
     
 }
+
+/*
 #row1:hover, #row3:hover, #row5:hover, #row7:hover, #row9:hover, #row11:hover  {
     background-color: rgb(235, 231, 231);
 }
+*/
+
+td:hover {background-color:rgb(235, 231, 231);}
+
 #row4, #row10{
     background-color: cadetblue;
 }
